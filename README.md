@@ -12,6 +12,6 @@ http://google.com
 ## 1. Web_Crawling
   * python
     * 
-## 2. cahtbot
+## 2. chatbot
   * basic
     * [chatbot](https://www.chatbot.com/)
